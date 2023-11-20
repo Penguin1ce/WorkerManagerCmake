@@ -9,7 +9,7 @@ int main()
 {
 	int s = 0;
 	WorkerManager wk;
-
+	cout << "initial" << endl;
 	while (true)
 	{
 		//开始界面
