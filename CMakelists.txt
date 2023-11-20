@@ -1,0 +1,7 @@
+cmake_minimum_required (VERSION 3.5)
+project(ManageCMakeProject)
+aux_source_directory(src SRC_SUB)
+aux_source_directory(. SRC_CUR)
+aux_source_directory(app SRC_SUB)
+add_executable(ManageCMakeProject ${SRC_SUB} ${SRC_CUR})
+include_directories(inc)
