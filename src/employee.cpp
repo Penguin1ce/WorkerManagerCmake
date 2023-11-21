@@ -1,7 +1,6 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
-#include"../inc/employee.h"
-
+#include "employee.h"
 
 Employee::Employee(int id, string name, int did)
 {
@@ -11,13 +10,12 @@ Employee::Employee(int id, string name, int did)
 }
 void Employee::showinformation()
 {
-	cout << "èŒå·¥ç¼–å·ï¼š" << this->ID << endl;
-	cout << "\tå§“åï¼š" << this->m_name << endl;
-	cout << "\tå²—ä½:" << this->getdidname() << endl;
-	cout << "\tå®Œæˆç»ç†äº¤ç»™çš„ä»»åŠ¡" << endl;
+	cout << "Ö°¹¤±àºÅ£º" << this->ID << endl;
+	cout << "\tÐÕÃû£º" << this->m_name << endl;
+	cout << "\t¸ÚÎ»:" << this->getdidname() << endl;
+	cout << "\tÍê³É¾­Àí½»¸øµÄÈÎÎñ" << endl;
 }
 string Employee::getdidname()
 {
-	return "å‘˜å·¥";
+	return "Ô±¹¤";
 }
-

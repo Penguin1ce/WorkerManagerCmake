@@ -1,6 +1,6 @@
 CMakeFiles/ManageCMakeProject.dir/src/workerManager.cpp.obj: \
  D:\Developement\Cpp\Cpp_Mul\ManageCmake\src\workerManager.cpp \
- D:/Developement/Cpp/Cpp_Mul/ManageCmake/inc/employee.h \
+ D:/Developement/Cpp/Cpp_Mul/ManageCmake/inc/workerManager.h \
  C:/Users/11471/.vscode/Environment/c_cpp/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream \
  C:/Users/11471/.vscode/Environment/c_cpp/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  C:/Users/11471/.vscode/Environment/c_cpp/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
@@ -117,12 +117,12 @@ CMakeFiles/ManageCMakeProject.dir/src/workerManager.cpp.obj: \
  C:/Users/11471/.vscode/Environment/c_cpp/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/ostream.tcc \
  C:/Users/11471/.vscode/Environment/c_cpp/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream \
  C:/Users/11471/.vscode/Environment/c_cpp/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/istream.tcc \
- D:/Developement/Cpp/Cpp_Mul/ManageCmake/inc/worker.h \
- D:/Developement/Cpp/Cpp_Mul/ManageCmake/inc/boss.h \
- D:/Developement/Cpp/Cpp_Mul/ManageCmake/inc/manager.h \
- D:/Developement/Cpp/Cpp_Mul/ManageCmake/inc/workerManager.h \
  C:/Users/11471/.vscode/Environment/c_cpp/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/fstream \
  C:/Users/11471/.vscode/Environment/c_cpp/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/codecvt.h \
  C:/Users/11471/.vscode/Environment/c_cpp/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h \
  C:/Users/11471/.vscode/Environment/c_cpp/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++io.h \
- C:/Users/11471/.vscode/Environment/c_cpp/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/fstream.tcc
+ C:/Users/11471/.vscode/Environment/c_cpp/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/fstream.tcc \
+ D:/Developement/Cpp/Cpp_Mul/ManageCmake/inc/worker.h \
+ D:/Developement/Cpp/Cpp_Mul/ManageCmake/inc/boss.h \
+ D:/Developement/Cpp/Cpp_Mul/ManageCmake/inc/employee.h \
+ D:/Developement/Cpp/Cpp_Mul/ManageCmake/inc/manager.h

@@ -12,13 +12,13 @@ int main()
 	cout << "initial" << endl;
 	while (true)
 	{
-		//å¼€å§‹ç•Œé¢
+		//¿ªÊ¼½çÃæ
 		wk.showmenu();
 		cin >> s;
 		switch (s)
 		{
 		case 0:
-			//é€€å‡º
+			//ÍË³ö
 			wk.exitsystem();
 			break;
 		case 1:

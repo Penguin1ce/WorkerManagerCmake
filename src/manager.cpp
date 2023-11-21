@@ -1,4 +1,4 @@
-#include"../inc/manager.h"
+#include "manager.h"
 Manager::Manager(int id, string name, int did)
 {
 	this->ID = id;
@@ -7,12 +7,12 @@ Manager::Manager(int id, string name, int did)
 }
 void Manager::showinformation()
 {
-	cout << "èŒå·¥ç¼–å·ï¼š" << this->ID << endl;
-	cout << "\tå§“åï¼š" << this->m_name << endl;
-	cout << "\tå²—ä½:" << this->getdidname() << endl;
-	cout << "\tå®Œæˆä¸Šå¸äº¤ç»™çš„ä»»åŠ¡ï¼Œå¹¶ä¸”ä¸‹å‘ä»»åŠ¡" << endl;
+	cout << "Ö°¹¤±àºÅ£º" << this->ID << endl;
+	cout << "\tÐÕÃû£º" << this->m_name << endl;
+	cout << "\t¸ÚÎ»:" << this->getdidname() << endl;
+	cout << "\tÍê³ÉÉÏË¾½»¸øµÄÈÎÎñ£¬²¢ÇÒÏÂ·¢ÈÎÎñ" << endl;
 }
 string Manager::getdidname()
 {
-	return "ç»ç†";
+	return "¾­Àí";
 }

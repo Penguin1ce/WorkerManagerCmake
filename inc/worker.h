@@ -1,7 +1,7 @@
 #pragma once
-#include<iostream>
+#include <iostream>
 using namespace std;
-//abstract worker
+// abstract worker
 class Worker
 {
 public:
@@ -9,6 +9,6 @@ public:
 	virtual string getdidname() = 0;
 	int ID;
 	string m_name;
-	//department id
+	// department id
 	int did;
 };

@@ -1,4 +1,4 @@
-#include"../inc/boss.h"
+#include "boss.h"
 Boss::Boss(int id, string name, int did)
 {
 	this->ID = id;
@@ -7,12 +7,12 @@ Boss::Boss(int id, string name, int did)
 }
 void Boss::showinformation()
 {
-	cout << "èŒå·¥ç¼–å·ï¼š" << this->ID << endl;
-	cout << "\tå§“åï¼š" << this->m_name << endl;
-	cout << "\tå²—ä½:" << this->getdidname() << endl;
-	cout << "\tç®¡ç†å…¬å¸äº‹åŠ¡" << endl;
+	cout << "Ö°¹¤±àºÅ£º" << this->ID << endl;
+	cout << "\tÐÕÃû£º" << this->m_name << endl;
+	cout << "\t¸ÚÎ»:" << this->getdidname() << endl;
+	cout << "\t¹ÜÀí¹«Ë¾ÊÂÎñ" << endl;
 }
 string Boss::getdidname()
 {
-	return "æ€»è£";
+	return "×Ü²Ã";
 }

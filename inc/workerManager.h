@@ -1,39 +1,39 @@
 #pragma once
-#include<iostream>
-#include<fstream>
-#include"worker.h"
+#include <iostream>
+#include <fstream>
+#include "worker.h"
 #define FILENAME "empfile.txt"
 using namespace std;
 class WorkerManager
 {
 public:
 	WorkerManager();
-	//menu
+	// menu
 	void showmenu();
-	//exit
+	// exit
 	void exitsystem();
-	//remain worker's number
+	// remain worker's number
 	int m_empnum;
-	Worker** m_empArray;
-	//add
+	Worker **m_empArray;
+	// add
 	void add_emp();
-	//save the file
+	// save the file
 	void save();
-	//recognize 
+	// recognize
 	bool m_fileisempty;
-	//ret worker's number
+	// ret worker's number
 	int get_number();
 	void init_emp();
 	void show_worker();
-	//delete worker we need to find this person
-	//In order to find this guy,return 
+	// delete worker we need to find this person
+	// In order to find this guy,return
 	int isexist(int ID);
 	void delete_worker();
-	//change
+	// change
 	void change_worker();
-	//find worker
+	// find worker
 	void find_worker();
-	//sort
+	// sort
 	void sort_worker();
 	void clean_file();
 	~WorkerManager();
