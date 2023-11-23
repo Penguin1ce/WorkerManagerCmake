@@ -4,12 +4,12 @@
 #include "manager.h"
 #include "worker.h"
 #include "workerManager.h"
+#define FILENAME "empfile.txt"
 using namespace std;
 int main()
 {
 	int s = 0;
 	WorkerManager wk;
-	cout << "initial" << endl;
 	while (true)
 	{
 		//开始界面

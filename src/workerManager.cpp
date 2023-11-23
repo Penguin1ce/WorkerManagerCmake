@@ -3,6 +3,7 @@
 #include "employee.h"
 #include "manager.h"
 #include <string>
+#define FILENAME "empfile.txt" //注意路径的问题
 void WorkerManager::save()
 {
     ofstream ofs;
@@ -12,7 +13,7 @@ void WorkerManager::save()
     {
         ofs << this->m_empArray[i]->ID << "\t"
             << this->m_empArray[i]->m_name << "\t"
-            << this->m_empArray[i]->did << endl;
+            << this->m_empArray[i]->did << "\n";
     }
     // close
     ofs.close();
@@ -34,19 +35,29 @@ WorkerManager::WorkerManager()
         return;
     }
     // file is exit,however nothing
-    char ch;
-    ifs >> ch;
+    // char ch;
+    // ifs >> ch;
     if (ifs.eof())
     {
-        cout << "File is empty" << endl;
+        std::cout << "File is empty" << endl;
         this->m_empnum = 0;
         this->m_empArray = NULL;
         this->m_fileisempty = true;
         ifs.close();
         return;
     }
+    // if (ifs.peek() == ifstream::traits_type::eof())
+    // {
+    //     cout << "File is empty" << endl;
+    //     this->m_empnum = 0;
+    //     this->m_empArray = NULL;
+    //     this->m_fileisempty = true;
+    //     ifs.close();
+    //     return;
+    //    }
     int num = this->get_number();
-    cout << "人数：" << num << endl;
+    cout << "人数：" << num << "\n";
+    this->m_fileisempty = false;
     this->m_empnum = num;
     //开辟空间
     this->m_empArray = new Worker *[num];
@@ -72,12 +83,12 @@ WorkerManager::~WorkerManager()
 void WorkerManager::showmenu()
 {
 
-    cout << "-------------" << endl;
-    cout << "Welcome" << endl;
-    cout << "1.增加职工序列" << endl;
-    cout << "2.显示职工信息" << endl;
-    cout << "3.删除离职职工" << endl;
-    cout << "4.修改职工信息" << endl;
+    cout << "------------\n";
+    cout << "Welcome\n";
+    cout << "1.增加职工序列\n";
+    cout << "2.显示职工信息\n";
+    cout << "3.删除离职职工\n";
+    cout << "4.修改职工信息\n";
     cout << "5.查找职工信息" << endl;
     cout << "6.按照编号排序" << endl;
     cout << "7.清空所有文档" << endl;
@@ -93,7 +104,7 @@ void WorkerManager::exitsystem()
 // addworker
 void WorkerManager::add_emp()
 {
-    cout << "输入添加职工数量" << endl;
+    cout << "输入添加职工数量\n";
     int addnum = 0;
     cin >> addnum;
     if (addnum > 0)
