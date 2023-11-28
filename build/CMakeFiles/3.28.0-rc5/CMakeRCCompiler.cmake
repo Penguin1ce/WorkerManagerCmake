@@ -1,4 +1,4 @@
-set(CMAKE_RC_COMPILER "C:/Users/11471/.vscode/Environment/c_cpp/mingw64/bin/windres.exe")
+set(CMAKE_RC_COMPILER "D:/Environment/mingw64/bin/windres.exe")
 set(CMAKE_RC_COMPILER_ARG1 "")
 set(CMAKE_RC_COMPILER_LOADED 1)
 set(CMAKE_RC_SOURCE_FILE_EXTENSIONS rc;RC)

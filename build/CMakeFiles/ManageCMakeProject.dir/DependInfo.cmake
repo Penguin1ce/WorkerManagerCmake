@@ -8,11 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/Developement/Cpp/Cpp_Mul/ManageCmake/app/Mainsystem.cpp" "CMakeFiles/ManageCMakeProject.dir/app/Mainsystem.cpp.obj" "gcc" "CMakeFiles/ManageCMakeProject.dir/app/Mainsystem.cpp.obj.d"
-  "D:/Developement/Cpp/Cpp_Mul/ManageCmake/src/boss.cpp" "CMakeFiles/ManageCMakeProject.dir/src/boss.cpp.obj" "gcc" "CMakeFiles/ManageCMakeProject.dir/src/boss.cpp.obj.d"
-  "D:/Developement/Cpp/Cpp_Mul/ManageCmake/src/employee.cpp" "CMakeFiles/ManageCMakeProject.dir/src/employee.cpp.obj" "gcc" "CMakeFiles/ManageCMakeProject.dir/src/employee.cpp.obj.d"
-  "D:/Developement/Cpp/Cpp_Mul/ManageCmake/src/manager.cpp" "CMakeFiles/ManageCMakeProject.dir/src/manager.cpp.obj" "gcc" "CMakeFiles/ManageCMakeProject.dir/src/manager.cpp.obj.d"
-  "D:/Developement/Cpp/Cpp_Mul/ManageCmake/src/workerManager.cpp" "CMakeFiles/ManageCMakeProject.dir/src/workerManager.cpp.obj" "gcc" "CMakeFiles/ManageCMakeProject.dir/src/workerManager.cpp.obj.d"
+  "D:/Development/Workermanager/WorkerManagerCmake/app/Mainsystem.cpp" "CMakeFiles/ManageCMakeProject.dir/app/Mainsystem.cpp.obj" "gcc" "CMakeFiles/ManageCMakeProject.dir/app/Mainsystem.cpp.obj.d"
+  "D:/Development/Workermanager/WorkerManagerCmake/src/boss.cpp" "CMakeFiles/ManageCMakeProject.dir/src/boss.cpp.obj" "gcc" "CMakeFiles/ManageCMakeProject.dir/src/boss.cpp.obj.d"
+  "D:/Development/Workermanager/WorkerManagerCmake/src/employee.cpp" "CMakeFiles/ManageCMakeProject.dir/src/employee.cpp.obj" "gcc" "CMakeFiles/ManageCMakeProject.dir/src/employee.cpp.obj.d"
+  "D:/Development/Workermanager/WorkerManagerCmake/src/manager.cpp" "CMakeFiles/ManageCMakeProject.dir/src/manager.cpp.obj" "gcc" "CMakeFiles/ManageCMakeProject.dir/src/manager.cpp.obj.d"
+  "D:/Development/Workermanager/WorkerManagerCmake/src/workerManager.cpp" "CMakeFiles/ManageCMakeProject.dir/src/workerManager.cpp.obj" "gcc" "CMakeFiles/ManageCMakeProject.dir/src/workerManager.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

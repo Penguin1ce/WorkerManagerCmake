@@ -15,7 +15,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/11471/.vscode/Environment/c_cpp/mingw64/bin/addr2line.exe"
+			"value" : "D:/Environment/mingw64/bin/addr2line.exe"
 		},
 		{
 			"name" : "CMAKE_AR",
@@ -31,19 +31,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/11471/.vscode/Environment/c_cpp/mingw64/bin/ar.exe"
-		},
-		{
-			"name" : "CMAKE_BACKWARDS_COMPATIBILITY",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "For backwards compatibility, what version of CMake commands and syntax should this version of CMake try to support."
-				}
-			],
-			"type" : "STRING",
-			"value" : "2.4"
+			"value" : "D:/Environment/mingw64/bin/ar.exe"
 		},
 		{
 			"name" : "CMAKE_BUILD_TYPE",
@@ -67,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/Developement/Cpp/Cpp_Mul/ManageCmake/build"
+			"value" : "d:/Development/Workermanager/WorkerManagerCmake/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -91,7 +79,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "27"
+			"value" : "28"
 		},
 		{
 			"name" : "CMAKE_CACHE_PATCH_VERSION",
@@ -103,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "3"
+			"value" : "0"
 		},
 		{
 			"name" : "CMAKE_COLOR_MAKEFILE",
@@ -131,7 +119,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/11471/.vscode/Environment/CMake/bin/cmake.exe"
+			"value" : "D:/Development/CMake/bin/cmake.exe"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -143,7 +131,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/11471/.vscode/Environment/CMake/bin/cpack.exe"
+			"value" : "D:/Development/CMake/bin/cpack.exe"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -155,7 +143,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/11471/.vscode/Environment/CMake/bin/ctest.exe"
+			"value" : "D:/Development/CMake/bin/ctest.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -167,11 +155,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "CXX compiler"
 				}
 			],
-			"type" : "FILEPATH",
-			"value" : "C:/Users/11471/.vscode/Environment/c_cpp/mingw64/bin/g++.exe"
+			"type" : "STRING",
+			"value" : "D:/Environment/mingw64/bin/g++.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER_AR",
@@ -187,7 +175,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/11471/.vscode/Environment/c_cpp/mingw64/bin/gcc-ar.exe"
+			"value" : "D:/Environment/mingw64/bin/gcc-ar.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER_RANLIB",
@@ -203,7 +191,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/11471/.vscode/Environment/c_cpp/mingw64/bin/gcc-ranlib.exe"
+			"value" : "D:/Environment/mingw64/bin/gcc-ranlib.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_FLAGS",
@@ -311,11 +299,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "C compiler"
 				}
 			],
-			"type" : "FILEPATH",
-			"value" : "C:/Users/11471/.vscode/Environment/c_cpp/mingw64/bin/gcc.exe"
+			"type" : "STRING",
+			"value" : "D:/Environment/mingw64/bin/gcc.exe"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_AR",
@@ -331,7 +319,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/11471/.vscode/Environment/c_cpp/mingw64/bin/gcc-ar.exe"
+			"value" : "D:/Environment/mingw64/bin/gcc-ar.exe"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_RANLIB",
@@ -347,7 +335,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/11471/.vscode/Environment/c_cpp/mingw64/bin/gcc-ranlib.exe"
+			"value" : "D:/Environment/mingw64/bin/gcc-ranlib.exe"
 		},
 		{
 			"name" : "CMAKE_C_FLAGS",
@@ -459,7 +447,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/11471/.vscode/Environment/c_cpp/mingw64/bin/dlltool.exe"
+			"value" : "D:/Environment/mingw64/bin/dlltool.exe"
 		},
 		{
 			"name" : "CMAKE_EDIT_COMMAND",
@@ -471,7 +459,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/11471/.vscode/Environment/CMake/bin/cmake-gui.exe"
+			"value" : "D:/Development/CMake/bin/cmake-gui.exe"
 		},
 		{
 			"name" : "CMAKE_EXECUTABLE_FORMAT",
@@ -599,7 +587,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Developement/Cpp/Cpp_Mul/ManageCmake/build/CMakeFiles/pkgRedirects"
+			"value" : "D:/Development/Workermanager/WorkerManagerCmake/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -671,7 +659,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Developement/Cpp/Cpp_Mul/ManageCmake"
+			"value" : "D:/Development/Workermanager/WorkerManagerCmake"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -699,7 +687,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/11471/.vscode/Environment/c_cpp/mingw64/bin/ld.exe"
+			"value" : "D:/Environment/mingw64/bin/ld.exe"
 		},
 		{
 			"name" : "CMAKE_MAKE_PROGRAM",
@@ -715,7 +703,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/11471/.vscode/Environment/c_cpp/mingw64/bin/mingw32-make.exe"
+			"value" : "D:/Environment/mingw64/bin/mingw32-make.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -811,7 +799,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/11471/.vscode/Environment/c_cpp/mingw64/bin/nm.exe"
+			"value" : "D:/Environment/mingw64/bin/nm.exe"
 		},
 		{
 			"name" : "CMAKE_NUMBER_OF_MAKEFILES",
@@ -839,7 +827,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/11471/.vscode/Environment/c_cpp/mingw64/bin/objcopy.exe"
+			"value" : "D:/Environment/mingw64/bin/objcopy.exe"
 		},
 		{
 			"name" : "CMAKE_OBJDUMP",
@@ -855,7 +843,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/11471/.vscode/Environment/c_cpp/mingw64/bin/objdump.exe"
+			"value" : "D:/Environment/mingw64/bin/objdump.exe"
 		},
 		{
 			"name" : "CMAKE_PLATFORM_INFO_INITIALIZED",
@@ -919,7 +907,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/11471/.vscode/Environment/c_cpp/mingw64/bin/ranlib.exe"
+			"value" : "D:/Environment/mingw64/bin/ranlib.exe"
 		},
 		{
 			"name" : "CMAKE_RC_COMPILER",
@@ -935,7 +923,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/11471/.vscode/Environment/c_cpp/mingw64/bin/windres.exe"
+			"value" : "D:/Environment/mingw64/bin/windres.exe"
 		},
 		{
 			"name" : "CMAKE_RC_COMPILER_WORKS",
@@ -1043,7 +1031,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/11471/.vscode/Environment/c_cpp/mingw64/bin/readelf.exe"
+			"value" : "D:/Environment/mingw64/bin/readelf.exe"
 		},
 		{
 			"name" : "CMAKE_ROOT",
@@ -1055,7 +1043,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/11471/.vscode/Environment/CMake/share/cmake-3.27"
+			"value" : "D:/Development/CMake/share/cmake-3.28"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1263,7 +1251,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/11471/.vscode/Environment/c_cpp/mingw64/bin/strip.exe"
+			"value" : "D:/Environment/mingw64/bin/strip.exe"
 		},
 		{
 			"name" : "CMAKE_TAPI",
@@ -1298,30 +1286,6 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "EXECUTABLE_OUTPUT_PATH",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Single output directory for building all executables."
-				}
-			],
-			"type" : "PATH",
-			"value" : ""
-		},
-		{
-			"name" : "LIBRARY_OUTPUT_PATH",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Single output directory for building all libraries."
-				}
-			],
-			"type" : "PATH",
-			"value" : ""
-		},
-		{
 			"name" : "ManageCMakeProject_BINARY_DIR",
 			"properties" : 
 			[
@@ -1331,7 +1295,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Developement/Cpp/Cpp_Mul/ManageCmake/build"
+			"value" : "D:/Development/Workermanager/WorkerManagerCmake/build"
 		},
 		{
 			"name" : "ManageCMakeProject_IS_TOP_LEVEL",
@@ -1355,7 +1319,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Developement/Cpp/Cpp_Mul/ManageCmake"
+			"value" : "D:/Development/Workermanager/WorkerManagerCmake"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

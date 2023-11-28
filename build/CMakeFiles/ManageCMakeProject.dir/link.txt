@@ -1,3 +1,3 @@
-C:\Users\11471\.vscode\Environment\CMake\bin\cmake.exe -E rm -f CMakeFiles\ManageCMakeProject.dir/objects.a
-C:\Users\11471\.vscode\Environment\c_cpp\mingw64\bin\ar.exe qc CMakeFiles\ManageCMakeProject.dir/objects.a @CMakeFiles\ManageCMakeProject.dir\objects1.rsp
-C:\Users\11471\.vscode\Environment\c_cpp\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ManageCMakeProject.dir/objects.a -Wl,--no-whole-archive -o ManageCMakeProject.exe -Wl,--out-implib,libManageCMakeProject.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ManageCMakeProject.dir\linkLibs.rsp
+D:\Development\CMake\bin\cmake.exe -E rm -f CMakeFiles\ManageCMakeProject.dir/objects.a
+D:\Environment\mingw64\bin\ar.exe qc CMakeFiles\ManageCMakeProject.dir/objects.a @CMakeFiles\ManageCMakeProject.dir\objects1.rsp
+D:\Environment\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ManageCMakeProject.dir/objects.a -Wl,--no-whole-archive -o ManageCMakeProject.exe -Wl,--out-implib,libManageCMakeProject.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ManageCMakeProject.dir\linkLibs.rsp

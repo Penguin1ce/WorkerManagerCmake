@@ -1,32 +1,32 @@
 [
 {
-  "directory": "D:/Developement/Cpp/Cpp_Mul/ManageCmake/build",
-  "command": "C:\\Users\\11471\\.vscode\\Environment\\c_cpp\\mingw64\\bin\\g++.exe  @CMakeFiles/ManageCMakeProject.dir/includes_CXX.rsp -g -o CMakeFiles\\ManageCMakeProject.dir\\src\\boss.cpp.obj -c D:\\Developement\\Cpp\\Cpp_Mul\\ManageCmake\\src\\boss.cpp",
-  "file": "D:/Developement/Cpp/Cpp_Mul/ManageCmake/src/boss.cpp",
+  "directory": "D:/Development/Workermanager/WorkerManagerCmake/build",
+  "command": "D:\\Environment\\mingw64\\bin\\g++.exe  @CMakeFiles/ManageCMakeProject.dir/includes_CXX.rsp -g -o CMakeFiles\\ManageCMakeProject.dir\\src\\boss.cpp.obj -c D:\\Development\\Workermanager\\WorkerManagerCmake\\src\\boss.cpp",
+  "file": "D:/Development/Workermanager/WorkerManagerCmake/src/boss.cpp",
   "output": "CMakeFiles/ManageCMakeProject.dir/src/boss.cpp.obj"
 },
 {
-  "directory": "D:/Developement/Cpp/Cpp_Mul/ManageCmake/build",
-  "command": "C:\\Users\\11471\\.vscode\\Environment\\c_cpp\\mingw64\\bin\\g++.exe  @CMakeFiles/ManageCMakeProject.dir/includes_CXX.rsp -g -o CMakeFiles\\ManageCMakeProject.dir\\src\\employee.cpp.obj -c D:\\Developement\\Cpp\\Cpp_Mul\\ManageCmake\\src\\employee.cpp",
-  "file": "D:/Developement/Cpp/Cpp_Mul/ManageCmake/src/employee.cpp",
+  "directory": "D:/Development/Workermanager/WorkerManagerCmake/build",
+  "command": "D:\\Environment\\mingw64\\bin\\g++.exe  @CMakeFiles/ManageCMakeProject.dir/includes_CXX.rsp -g -o CMakeFiles\\ManageCMakeProject.dir\\src\\employee.cpp.obj -c D:\\Development\\Workermanager\\WorkerManagerCmake\\src\\employee.cpp",
+  "file": "D:/Development/Workermanager/WorkerManagerCmake/src/employee.cpp",
   "output": "CMakeFiles/ManageCMakeProject.dir/src/employee.cpp.obj"
 },
 {
-  "directory": "D:/Developement/Cpp/Cpp_Mul/ManageCmake/build",
-  "command": "C:\\Users\\11471\\.vscode\\Environment\\c_cpp\\mingw64\\bin\\g++.exe  @CMakeFiles/ManageCMakeProject.dir/includes_CXX.rsp -g -o CMakeFiles\\ManageCMakeProject.dir\\src\\manager.cpp.obj -c D:\\Developement\\Cpp\\Cpp_Mul\\ManageCmake\\src\\manager.cpp",
-  "file": "D:/Developement/Cpp/Cpp_Mul/ManageCmake/src/manager.cpp",
+  "directory": "D:/Development/Workermanager/WorkerManagerCmake/build",
+  "command": "D:\\Environment\\mingw64\\bin\\g++.exe  @CMakeFiles/ManageCMakeProject.dir/includes_CXX.rsp -g -o CMakeFiles\\ManageCMakeProject.dir\\src\\manager.cpp.obj -c D:\\Development\\Workermanager\\WorkerManagerCmake\\src\\manager.cpp",
+  "file": "D:/Development/Workermanager/WorkerManagerCmake/src/manager.cpp",
   "output": "CMakeFiles/ManageCMakeProject.dir/src/manager.cpp.obj"
 },
 {
-  "directory": "D:/Developement/Cpp/Cpp_Mul/ManageCmake/build",
-  "command": "C:\\Users\\11471\\.vscode\\Environment\\c_cpp\\mingw64\\bin\\g++.exe  @CMakeFiles/ManageCMakeProject.dir/includes_CXX.rsp -g -o CMakeFiles\\ManageCMakeProject.dir\\src\\workerManager.cpp.obj -c D:\\Developement\\Cpp\\Cpp_Mul\\ManageCmake\\src\\workerManager.cpp",
-  "file": "D:/Developement/Cpp/Cpp_Mul/ManageCmake/src/workerManager.cpp",
+  "directory": "D:/Development/Workermanager/WorkerManagerCmake/build",
+  "command": "D:\\Environment\\mingw64\\bin\\g++.exe  @CMakeFiles/ManageCMakeProject.dir/includes_CXX.rsp -g -o CMakeFiles\\ManageCMakeProject.dir\\src\\workerManager.cpp.obj -c D:\\Development\\Workermanager\\WorkerManagerCmake\\src\\workerManager.cpp",
+  "file": "D:/Development/Workermanager/WorkerManagerCmake/src/workerManager.cpp",
   "output": "CMakeFiles/ManageCMakeProject.dir/src/workerManager.cpp.obj"
 },
 {
-  "directory": "D:/Developement/Cpp/Cpp_Mul/ManageCmake/build",
-  "command": "C:\\Users\\11471\\.vscode\\Environment\\c_cpp\\mingw64\\bin\\g++.exe  @CMakeFiles/ManageCMakeProject.dir/includes_CXX.rsp -g -o CMakeFiles\\ManageCMakeProject.dir\\app\\Mainsystem.cpp.obj -c D:\\Developement\\Cpp\\Cpp_Mul\\ManageCmake\\app\\Mainsystem.cpp",
-  "file": "D:/Developement/Cpp/Cpp_Mul/ManageCmake/app/Mainsystem.cpp",
+  "directory": "D:/Development/Workermanager/WorkerManagerCmake/build",
+  "command": "D:\\Environment\\mingw64\\bin\\g++.exe  @CMakeFiles/ManageCMakeProject.dir/includes_CXX.rsp -g -o CMakeFiles\\ManageCMakeProject.dir\\app\\Mainsystem.cpp.obj -c D:\\Development\\Workermanager\\WorkerManagerCmake\\app\\Mainsystem.cpp",
+  "file": "D:/Development/Workermanager/WorkerManagerCmake/app/Mainsystem.cpp",
   "output": "CMakeFiles/ManageCMakeProject.dir/app/Mainsystem.cpp.obj"
 }
 ]
